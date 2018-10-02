@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Compartimos.Indexation.Services\Compartimos.Indexation.Services.csproj" />
+    <ProjectReference Include="..\Compartimoss.Indexation.Models\Compartimoss.Indexation.Models.csproj" />
+  </ItemGroup>
+
+</Project>

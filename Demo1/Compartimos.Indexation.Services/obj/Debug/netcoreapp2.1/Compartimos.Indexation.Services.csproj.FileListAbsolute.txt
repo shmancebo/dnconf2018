@@ -1,0 +1,12 @@
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\bin\Debug\netcoreapp2.1\Compartimos.Indexation.Services.deps.json
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\bin\Debug\netcoreapp2.1\Compartimos.Indexation.Services.dll
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.csprojAssemblyReference.cache
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.csproj.CoreCompileInputs.cache
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.AssemblyInfoInputs.cache
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.AssemblyInfo.cs
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\bin\Debug\netcoreapp2.1\Compartimos.Indexation.Services.pdb
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\bin\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.dll
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\bin\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.pdb
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.csproj.CopyComplete
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.dll
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.pdb

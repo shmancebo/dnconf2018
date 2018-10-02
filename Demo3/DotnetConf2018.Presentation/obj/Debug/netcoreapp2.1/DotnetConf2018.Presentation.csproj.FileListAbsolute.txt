@@ -1,0 +1,17 @@
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\bin\Debug\netcoreapp2.1\DotnetConf2018.Presentation.deps.json
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\bin\Debug\netcoreapp2.1\DotnetConf2018.Presentation.runtimeconfig.json
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\bin\Debug\netcoreapp2.1\DotnetConf2018.Presentation.runtimeconfig.dev.json
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\bin\Debug\netcoreapp2.1\DotnetConf2018.Presentation.dll
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\bin\Debug\netcoreapp2.1\DotnetConf2018.Presentation.pdb
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\bin\Debug\netcoreapp2.1\DotnetConf2018.Services.dll
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\bin\Debug\netcoreapp2.1\DotnetConf2018.Services.pdb
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\obj\Debug\netcoreapp2.1\DotnetConf2018.Presentation.csprojAssemblyReference.cache
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\obj\Debug\netcoreapp2.1\DotnetConf2018.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\obj\Debug\netcoreapp2.1\DotnetConf2018.Presentation.RazorAssemblyInfo.cache
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\obj\Debug\netcoreapp2.1\DotnetConf2018.Presentation.RazorAssemblyInfo.cs
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\obj\Debug\netcoreapp2.1\DotnetConf2018.Presentation.AssemblyInfoInputs.cache
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\obj\Debug\netcoreapp2.1\DotnetConf2018.Presentation.AssemblyInfo.cs
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\obj\Debug\netcoreapp2.1\DotnetConf2018.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\obj\Debug\netcoreapp2.1\DotnetConf2018.Presentation.csproj.CopyComplete
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\obj\Debug\netcoreapp2.1\DotnetConf2018.Presentation.dll
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\DotnetConf2018.Presentation\obj\Debug\netcoreapp2.1\DotnetConf2018.Presentation.pdb

@@ -1,0 +1,9 @@
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimoss.Indexation.Models\bin\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.deps.json
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimoss.Indexation.Models\bin\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.dll
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.csprojAssemblyReference.cache
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.csproj.CoreCompileInputs.cache
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.AssemblyInfoInputs.cache
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.AssemblyInfo.cs
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimoss.Indexation.Models\bin\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.pdb
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.dll
+c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.pdb

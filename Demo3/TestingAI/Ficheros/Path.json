@@ -1,0 +1,52 @@
+﻿{
+    "data": [
+        {
+            "Name": "david.jpeg",
+            "Signature": "https://dotnetconf2018stg.blob.core.windows.net/imagescognitives/david.jpeg"
+        },
+        {
+            "Name": "encimera-granito",
+            "Signature": "https://dotnetconf2018stg.blob.core.windows.net/imagescognitives/encimera-de-granito-sensa.jpg"
+        },
+        {
+            "Name": "encimera-pizarra",
+            "Signature": "https://dotnetconf2018stg.blob.core.windows.net/imagescognitives/encimera-de-granito-sensa.jpg"
+        },
+        {
+            "Name": "encimera-granito2",
+            "Signature": "https://dotnetconf2018stg.blob.core.windows.net/imagescognitives/encimera.jpg"
+        },
+        {
+            "Name": "encimera-granito3",
+            "Signature": "https://dotnetconf2018stg.blob.core.windows.net/imagescognitives/encimera2.jpg"
+        },
+        {
+            "Name": "tejado1",
+            "Signature": "https://dotnetconf2018stg.blob.core.windows.net/imagescognitives/Finalizan-las-obras-de-reparaci%C3%B3n-de-los-tejados-de-pizarra-en-la-Iglesia-de-Orgaz-Toledo.jpg"
+        },
+        {
+            "Name": "mesa marmol",
+            "Signature": "https://dotnetconf2018stg.blob.core.windows.net/imagescognitives/mesa.jpg"
+        },
+        {
+            "Name": "monte rushmore",
+            "Signature": "https://dotnetconf2018stg.blob.core.windows.net/imagescognitives/monte%20rushmore.JPG"
+        },
+        {
+            "Name": "Pared pizarra",
+            "Signature": "https://dotnetconf2018stg.blob.core.windows.net/imagescognitives/pared.jpg"
+        },
+        {
+            "Name": "La piedad",
+            "Signature": "https://dotnetconf2018stg.blob.core.windows.net/imagescognitives/piedad.JPG"
+        },
+        {
+            "Name": "Tejado 2",
+            "Signature": "https://dotnetconf2018stg.blob.core.windows.net/imagescognitives/tejado.png"
+        },
+        {
+            "Name": "Yosemite",
+            "Signature": "https://dotnetconf2018stg.blob.core.windows.net/imagescognitives/yosemite.JPG"
+        }
+    ]
+}

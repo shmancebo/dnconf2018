@@ -1,0 +1,74 @@
+[
+    {
+        "probability": 0.9304997,
+        "tagId": "5b21ae16-c3cc-4cee-8e26-a53a895a2149",
+        "tagName": "Granito",
+        "boundingBox": null
+    },
+    {
+        "probability": 0.9700517,
+        "tagId": "da7c597d-399e-43e9-b64f-b6d1a5d7df12",
+        "tagName": "Marmol",
+        "boundingBox": null
+    },
+    {
+        "probability": 0.9927663,
+        "tagId": "dab5910b-c4c9-4a35-afb8-cf8d72ccc31f",
+        "tagName": "Pizarra",
+        "boundingBox": null
+    },
+    {
+        "probability": 0.9828584,
+        "tagId": "5b21ae16-c3cc-4cee-8e26-a53a895a2149",
+        "tagName": "Granito",
+        "boundingBox": null
+    },
+    {
+        "probability": 0.994608164,
+        "tagId": "5b21ae16-c3cc-4cee-8e26-a53a895a2149",
+        "tagName": "Granito",
+        "boundingBox": null
+    },
+    {
+        "probability": 0.9936585,
+        "tagId": "dab5910b-c4c9-4a35-afb8-cf8d72ccc31f",
+        "tagName": "Pizarra",
+        "boundingBox": null
+    },
+    {
+        "probability": 0.8205187,
+        "tagId": "dab5910b-c4c9-4a35-afb8-cf8d72ccc31f",
+        "tagName": "Pizarra",
+        "boundingBox": null
+    },
+    {
+        "probability": 0.9999563,
+        "tagId": "da7c597d-399e-43e9-b64f-b6d1a5d7df12",
+        "tagName": "Marmol",
+        "boundingBox": null
+    },
+    {
+        "probability": 0.804774761,
+        "tagId": "5b21ae16-c3cc-4cee-8e26-a53a895a2149",
+        "tagName": "Granito",
+        "boundingBox": null
+    },
+    {
+        "probability": 0.811153769,
+        "tagId": "5b21ae16-c3cc-4cee-8e26-a53a895a2149",
+        "tagName": "Granito",
+        "boundingBox": null
+    },
+    {
+        "probability": 0.997321069,
+        "tagId": "5b21ae16-c3cc-4cee-8e26-a53a895a2149",
+        "tagName": "Granito",
+        "boundingBox": null
+    },
+    {
+        "probability": 0.9216974,
+        "tagId": "da7c597d-399e-43e9-b64f-b6d1a5d7df12",
+        "tagName": "Marmol",
+        "boundingBox": null
+    }
+]

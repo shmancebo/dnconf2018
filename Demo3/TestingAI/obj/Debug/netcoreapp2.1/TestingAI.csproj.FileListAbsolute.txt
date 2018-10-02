@@ -1,0 +1,14 @@
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\bin\Debug\netcoreapp2.1\TestingAI.deps.json
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\bin\Debug\netcoreapp2.1\TestingAI.runtimeconfig.json
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\bin\Debug\netcoreapp2.1\TestingAI.runtimeconfig.dev.json
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\bin\Debug\netcoreapp2.1\TestingAI.dll
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\bin\Debug\netcoreapp2.1\TestingAI.pdb
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\bin\Debug\netcoreapp2.1\DotnetConf2018.Services.dll
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\bin\Debug\netcoreapp2.1\DotnetConf2018.Services.pdb
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.csprojAssemblyReference.cache
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.csproj.CoreCompileInputs.cache
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.AssemblyInfoInputs.cache
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.AssemblyInfo.cs
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.csproj.CopyComplete
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.dll
+C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.pdb
