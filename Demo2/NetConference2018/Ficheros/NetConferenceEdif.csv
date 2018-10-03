@@ -1,0 +1,100 @@
+GESCAL17;WAYTYPE;WAYNAME;PROVINCEID;PROVINCE;TOWN;POSTALCODE;NUM;ADDRESS
+20000040208200007;Calle;Julian Elorza Hiribidea;20;GUIPUZCOA;Azpeitia;20730;7;Calle Julian Elorza Hiribidea, Azpeitia
+22000300001500007;Calle;Sabiñanigo;22;HUESCA;Jaca;22700;7;Calle Sabiñanigo, Jaca
+22000300032100036;Avenida;Zaragoza;22;HUESCA;Jaca;22700;36;Avenida Zaragoza, Jaca
+22000300177500021;Avenida;Regimiento de Galicia;22;HUESCA;Jaca;22700;21;Avenida Regimiento de Galicia, Jaca
+31001600197700005;Calle;Pozas;31;NAVARRA;Olite;31390;5;Calle Pozas, Olite
+31001600240800008;Plaza;Corella;31;NAVARRA;Olite;31390;8;Plaza Corella, Olite
+50000600005100001;Calle;Autonomia de Aragon;50;ZARAGOZA;Puebla de Alfinden;50171;1;Calle Autonomia de Aragon, Puebla de Alfinden
+13000410213500020;Carretera;Solana La;13;CIUDAD REAL;Membrilla;13230;20;Carretera Solana La, Membrilla
+13000410229500006;Calle;Joaquin Carrero;13;CIUDAD REAL;Membrilla;13230;6;Calle Joaquin Carrero, Membrilla
+13000410240700031;Calle;San Leon;13;CIUDAD REAL;Membrilla;13230;31;Calle San Leon, Membrilla
+13000410240800030;Calle;Papa Juan XXIII;13;CIUDAD REAL;Membrilla;13230;30;Calle Papa Juan XXIII, Membrilla
+13000410246000039;Calle;Rosa del Azafran;13;CIUDAD REAL;Membrilla;13230;39;Calle Rosa del Azafran, Membrilla
+13000410113200017;Calle;Santiago;13;CIUDAD REAL;Membrilla;13230;17;Calle Santiago, Membrilla
+16000193949600016;Calle;Veredilla;16;CUENCA;Las Pedroñeras;16660;16;Calle Veredilla, Las Pedroñeras
+45000410246100020;Calle;Arroyuelo Alto;45;TOLEDO;Madridejos;45710;20;Calle Arroyuelo Alto, Madridejos
+45000410250900010;Travesía;Portugal;45;TOLEDO;Madridejos;45710;10;Travesía Portugal, Madridejos
+45000410027000003;Calle;Covadonga;45;TOLEDO;Madridejos;45710;3;Calle Covadonga, Madridejos
+45000410247200011;Avenida;Juan XXIII;45;TOLEDO;Madridejos;45710;11;Avenida Juan XXIII, Madridejos
+45000410071500013;Calle;Santa Clara;45;TOLEDO;Madridejos;45710;13;Calle Santa Clara, Madridejos
+45000410091700037;Calle;Molino;45;TOLEDO;Madridejos;45710;37;Calle Molino, Madridejos
+45000411037100010;Calle;Pinta de la;45;TOLEDO;Madridejos;45710;10;Calle Pinta de la, Madridejos
+45000690368000014;Calle;Pizarro;45;TOLEDO;Quintanar de la Orden;45800;14;Calle Pizarro, Quintanar de la Orden
+45000690373500024;Avenida;Reyes Catolicos;45;TOLEDO;Quintanar de la Orden;45800;24;Avenida Reyes Catolicos, Quintanar de la Orden
+45000690369500085;Calle;Obra;45;TOLEDO;Quintanar de la Orden;45800;85;Calle Obra, Quintanar de la Orden
+45000690252100064;Calle;Oliva;45;TOLEDO;Quintanar de la Orden;45800;64;Calle Oliva, Quintanar de la Orden
+45000690921300005;Calle;Alonso Quijano;45;TOLEDO;Quintanar de la Orden;45800;5;Calle Alonso Quijano, Quintanar de la Orden
+28000220008200027;Calle;Bartolome Murillo;28;MADRID;Campo Real;28510;27;Calle Bartolome Murillo, Campo Real
+28000380004600023;Calle;Joaquin Pacheco;28;MADRID;El Escorial;28280;23;Calle Joaquin Pacheco, El Escorial
+28000381225900027;Avenida;Castilla;28;MADRID;El Escorial;28280;27;Avenida Castilla, El Escorial
+28000512204900001;Calle;Virgen de las Angustias;28;MADRID;Loeches;28890;1;Calle Virgen de las Angustias, Loeches
+28001110011800020;Calle;Asturias;28;MADRID;Villanueva de la Cañada;28691;20;Calle Asturias, Villanueva de la Cañada
+02000050117700012;Calle;Corona de Aragon;02;ALBACETE;Caudete;02660;12;Calle Corona de Aragon, Caudete
+03000160201500023;Calle;Ramon y Cajal;03;ALICANTE;Castalla;03420;23;Calle Ramon y Cajal, Castalla
+12000120023400040;Calle;Dolors;12;CASTELLON;Benicassim;12560;40;Calle Dolors, Benicassim
+46001600000600001;Calle;San Cayetano;46;VALENCIA;Vallada;46691;1;Calle San Cayetano, Vallada
+46001600224100027;Calle;Vble Andres Garrido-Pare Presentat;46;VALENCIA;Vallada;46691;27;Calle Vble Andres Garrido-Pare Presentat, Vallada
+08001050001100021;Calle;Barcelona;08;BARCELONA;Els Monjos;08730;21;Calle Barcelona, Els Monjos
+08001120360600009;Calle;Sant Bartomeu;08;BARCELONA;Navarcles;08270;9;Calle Sant Bartomeu, Navarcles
+08000881339700033;Calle;Sant Genis;08;BARCELONA;Malgrat de Mar;08380;33;Calle Sant Genis, Malgrat de Mar
+08000881804200003;Calle;Ramon Cama;08;BARCELONA;Malgrat de Mar;08380;3;Calle Ramon Cama, Malgrat de Mar
+08001932796000154;Calle;Eduard Peña;08;BARCELONA;Sant Vicenç de Castellet;08295;154;Calle Eduard Peña, Sant Vicenç de Castellet
+17000071360200055;Calle;Sorrall;17;GERONA;Arbucies;17401;55;Calle Sorrall, Arbucies
+17000560283600004;Calle;Ravalet;17;GERONA;Hostalric;17450;4;Calle Ravalet, Hostalric
+25000110130300017;Calle;Nord;25;LLEIDA;Alcarras;25180;17;Calle Nord, Alcarras
+25000110130700057;Calle;Balsa;25;LLEIDA;Alcarras;25180;57;Calle Balsa, Alcarras
+25000160130100004;Plaça;Esglesia;25;LLEIDA;Alguaire;25125;4;Plaça Esglesia, Alguaire
+43000010027300112;Calle;Mendez Nuñez;43;TARRAGONA;Alcanar;43530;112;Calle Mendez Nuñez, Alcanar
+06000270088800102;Calle;Arroyo;06;BADAJOZ;Guareña;06470;102;Calle Arroyo, Guareña
+06000420004600122;Calle;Belgica;06;BADAJOZ;Olivenza;06100;122;Calle Belgica, Olivenza
+10000370213800053;Calle;Pozo Vela;10;CACERES;Miajadas;10100;53;Calle Pozo Vela, Miajadas
+10000370107800007;Calle;San Marcos;10;CACERES;Miajadas;10100;7;Calle San Marcos, Miajadas
+14000280318500034;Calle;Maestra;14;CORDOBA;Fuente Obejuna;14290;34;Calle Maestra, Fuente Obejuna
+14000280318700006;Calle;Doctor Miras Navarro;14;CORDOBA;Fuente Obejuna;14290;6;Calle Doctor Miras Navarro, Fuente Obejuna
+14000280320500033;Calle;Pozuelos;14;CORDOBA;Fuente Obejuna;14290;33;Calle Pozuelos, Fuente Obejuna
+23000050613600005;Calle;Coronel Enrique Barrera Martinez;23;JAEN;Arjona;23760;5;Calle Coronel Enrique Barrera Martinez, Arjona
+23000050164000014;Calle;Ramon Serrano;23;JAEN;Arjona;23760;14;Calle Ramon Serrano, Arjona
+23000050168000031;Calle;San Nicasio;23;JAEN;Arjona;23760;31;Calle San Nicasio, Arjona
+23000050169500004;Calle;Martires;23;JAEN;Arjona;23760;4;Calle Martires, Arjona
+29000030502700019;Calle;Albaicin;29;MALAGA;Alhaurin el Grande;29120;19;Calle Albaicin, Alhaurin el Grande
+41000450003700007;Calle;Zorzaleña;41;SEVILLA;Gines;41960;7;Calle Zorzaleña, Gines
+41000450009100024;Calle;Olivar;41;SEVILLA;Gines;41960;24;Calle Olivar, Gines
+41000500206800002;Calle;Paraguay;41;SEVILLA;Lebrija;41740;2;Calle Paraguay, Lebrija
+14000280229899961;Calle;Colon;14;CORDOBA;Fuente Obejuna;14290;99961;Calle Colon, Fuente Obejuna
+13000410004300022;Calle;Capitan Melendez Arias;13;CIUDAD REAL;Membrilla;13230;22;Calle Capitan Melendez Arias, Membrilla
+13000410092100001;Calle;Vega De La;13;CIUDAD REAL;Membrilla;13230;1;Calle Vega De La, Membrilla
+29000070004600089;Calle;Cordoba;29;MALAGA;Archidona;29300;89;Calle Cordoba, Archidona
+46001600154700018;Calle;Jose Antonio;46;VALENCIA;Vallada;46691;18;Calle Jose Antonio, Vallada
+23000050004600006;Callejón;San Juan;23;JAEN;Arjona;23760;6;Callejón San Juan, Arjona
+25000650005300001;Calle;Muralla;25;LLEIDA;Cervera;25200;1;Calle Muralla, Cervera
+22000300002500001;Calle;Artaso;22;HUESCA;Jaca;22700;1;Calle Artaso, Jaca
+22000300010400002;Calle;Almogavares;22;HUESCA;Jaca;22700;2;Calle Almogavares, Jaca
+22000300179900008;Calle;Gil Berges;22;HUESCA;Jaca;22700;8;Calle Gil Berges, Jaca
+22000300402500003;Calle;Olimpia;22;HUESCA;Jaca;22700;3;Calle Olimpia, Jaca
+31001600243400008;Calle;Caparroso;31;NAVARRA;Olite;31390;8;Calle Caparroso, Olite
+13000410235500034;Calle;Buenos Aires;13;CIUDAD REAL;Membrilla;13230;34;Calle Buenos Aires, Membrilla
+13000410240800031;Calle;Papa Juan XXIII;13;CIUDAD REAL;Membrilla;13230;31;Calle Papa Juan XXIII, Membrilla
+13000410240900050;Calle;Castillo del Tocon;13;CIUDAD REAL;Membrilla;13230;50;Calle Castillo del Tocon, Membrilla
+13000410252600002;Plaza;Colon;13;CIUDAD REAL;Membrilla;13230;2;Plaza Colon, Membrilla
+13000410752300017;Avenida;Constitucion;13;CIUDAD REAL;Membrilla;13230;17;Avenida Constitucion, Membrilla
+13000410752300021;Avenida;Constitucion;13;CIUDAD REAL;Membrilla;13230;21;Avenida Constitucion, Membrilla
+13000410002200006;Calle;Serna La;13;CIUDAD REAL;Membrilla;13230;6;Calle Serna La, Membrilla
+13000410017700005;Calle;Monjas;13;CIUDAD REAL;Membrilla;13230;5;Calle Monjas, Membrilla
+13000410050200053;Calle;Mayor;13;CIUDAD REAL;Membrilla;13230;53;Calle Mayor, Membrilla
+13000410092100035;Calle;Vega De La;13;CIUDAD REAL;Membrilla;13230;35;Calle Vega De La, Membrilla
+13000410095700016;Calle;Iglesia;13;CIUDAD REAL;Membrilla;13230;16;Calle Iglesia, Membrilla
+16000190114600001;Calle;Pelayo;16;CUENCA;Las Pedroñeras;16660;1;Calle Pelayo, Las Pedroñeras
+45000410001700035;Avenida;Reina Sofia;45;TOLEDO;Madridejos;45710;35;Avenida Reina Sofia, Madridejos
+45000410245700004;Calle;Teniente Infante;45;TOLEDO;Madridejos;45710;4;Calle Teniente Infante, Madridejos
+45000410037400012;Calle;Extremadura;45;TOLEDO;Madridejos;45710;12;Calle Extremadura, Madridejos
+45000410252700029;Callejón;Pando;45;TOLEDO;Madridejos;45710;29;Callejón Pando, Madridejos
+45000410087300077;Calle;Clavel;45;TOLEDO;Madridejos;45710;77;Calle Clavel, Madridejos
+45000410091700031;Calle;Molino;45;TOLEDO;Madridejos;45710;31;Calle Molino, Madridejos
+45000410000100005;Calle;Fray Benito Romero;45;TOLEDO;Madridejos;45710;5;Calle Fray Benito Romero, Madridejos
+45000410249000038;Calle;Roma;45;TOLEDO;Madridejos;45710;38;Calle Roma, Madridejos
+45000690373700020;Calle;Santa Gema;45;TOLEDO;Quintanar de la Orden;45800;20;Calle Santa Gema, Quintanar de la Orden
+45000690250200034;Calle;Paz;45;TOLEDO;Quintanar de la Orden;45800;34;Calle Paz, Quintanar de la Orden
+45000690250200042;Calle;Paz;45;TOLEDO;Quintanar de la Orden;45800;42;Calle Paz, Quintanar de la Orden
+28000220008100024;Calle;Francisco de Goya;28;MADRID;Campo Real;28510;24;Calle Francisco de Goya, Campo Real
+28000450376200082;Calle;Mayor;28;MADRID;Griñon;28971;82;Calle Mayor, Griñon
