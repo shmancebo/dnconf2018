@@ -1,0 +1,14 @@
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.0\TestingAI.deps.json
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.0\TestingAI.runtimeconfig.json
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.0\TestingAI.runtimeconfig.dev.json
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.0\TestingAI.dll
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.0\TestingAI.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.0\DotnetConf2018.Services.dll
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.0\DotnetConf2018.Services.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.0\TestingAI.csprojAssemblyReference.cache
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.0\TestingAI.csproj.CoreCompileInputs.cache
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.0\TestingAI.AssemblyInfoInputs.cache
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.0\TestingAI.AssemblyInfo.cs
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.0\TestingAI.csproj.CopyComplete
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.0\TestingAI.dll
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.0\TestingAI.pdb

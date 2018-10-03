@@ -11852,11 +11852,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\dotnet\\DotnetConf2018.Presentation\\DotnetConf2018.Presentation.csproj",
+      "projectUniqueName": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Presentation\\DotnetConf2018.Presentation.csproj",
       "projectName": "DotnetConf2018.Presentation",
-      "projectPath": "C:\\GIT\\dotnet\\DotnetConf2018.Presentation\\DotnetConf2018.Presentation.csproj",
+      "projectPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Presentation\\DotnetConf2018.Presentation.csproj",
       "packagesPath": "C:\\Users\\shernandez\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT\\dotnet\\DotnetConf2018.Presentation\\obj\\",
+      "outputPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11875,8 +11875,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\GIT\\dotnet\\DotnetConf2018.Shared\\DotnetConf2018.Services.csproj": {
-              "projectPath": "C:\\GIT\\dotnet\\DotnetConf2018.Shared\\DotnetConf2018.Services.csproj"
+            "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Shared\\DotnetConf2018.Services.csproj": {
+              "projectPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Shared\\DotnetConf2018.Services.csproj"
             }
           }
         }

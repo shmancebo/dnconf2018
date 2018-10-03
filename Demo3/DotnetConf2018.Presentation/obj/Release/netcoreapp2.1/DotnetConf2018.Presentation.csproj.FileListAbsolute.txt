@@ -1,0 +1,17 @@
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\bin\Release\netcoreapp2.1\DotnetConf2018.Presentation.deps.json
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\bin\Release\netcoreapp2.1\DotnetConf2018.Presentation.runtimeconfig.json
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\bin\Release\netcoreapp2.1\DotnetConf2018.Presentation.runtimeconfig.dev.json
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\bin\Release\netcoreapp2.1\DotnetConf2018.Presentation.dll
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\bin\Release\netcoreapp2.1\DotnetConf2018.Presentation.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\bin\Release\netcoreapp2.1\DotnetConf2018.Services.dll
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\bin\Release\netcoreapp2.1\DotnetConf2018.Services.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.csprojAssemblyReference.cache
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.csproj.CoreCompileInputs.cache
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.RazorAssemblyInfo.cache
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.RazorAssemblyInfo.cs
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.AssemblyInfoInputs.cache
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.AssemblyInfo.cs
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.RazorTargetAssemblyInfo.cache
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.csproj.CopyComplete
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.dll
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.pdb
