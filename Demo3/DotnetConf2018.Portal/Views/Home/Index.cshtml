@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model SearchViewModel
+
+<div id="image" class="col-lg-4">
+</div>
+<div id="container" class="col-lg-8">
+    <form asp-controller="Home" asp-action="Index" method="post">
+        <div id="searchcontainer">
+            <label>Busqueda</label>
+            <input asp-for="Query" id="inputSearch" type="submit" />
+        </div>
+    </form>
+
+    <div id="result">
+        @if (Model != null && Model.SearchResult != null)
+        {
+            foreach (var item in Model.SearchResult)
+            {
+                <div id="item">
+                    <img src="@item.Url" />
+                    <label>Scoring:</label><label>@item.Scoring</label>
+                    <label>Tag:</label><label>@item.Tag</label>
+                </div>
+            }
+        }
+    </div>
+</div>

@@ -4967,9 +4967,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Shared\\DotnetConf2018.Services.csproj",
-      "projectName": "DotnetConf2018.Services",
-      "projectPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Shared\\DotnetConf2018.Services.csproj",
+      "projectUniqueName": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Shared\\DotnetConf2018.Shared.csproj",
+      "projectName": "DotnetConf2018.Shared",
+      "projectPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Shared\\DotnetConf2018.Shared.csproj",
       "packagesPath": "C:\\Users\\shernandez\\.nuget\\packages\\",
       "outputPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Shared\\obj\\",
       "projectStyle": "PackageReference",

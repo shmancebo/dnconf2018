@@ -17,7 +17,7 @@ namespace DotnetConf2018.Presentation.Controllers
         {
           var client = new AzureSearchService("dotnetconfsearch", "162ED4F1F498A366C066F1A1B1430F5D");
           var result = client.RunQuery<AzureSearchModel>(index, new Microsoft.Azure.Search.Models.SearchParameters(), query, null).Result;
-          return JsonConvert.SerializeObject(result);
+          return JsonConvert.SerializeObject(result.Collection);
         }
     }
 }

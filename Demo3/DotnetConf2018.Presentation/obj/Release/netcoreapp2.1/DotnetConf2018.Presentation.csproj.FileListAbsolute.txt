@@ -15,3 +15,4 @@ C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netco
 C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.csproj.CopyComplete
 C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.dll
 C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\DotnetConf2018.Presentation.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo3\DotnetConf2018.Presentation\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs

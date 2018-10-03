@@ -6,12 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DotnetConf2018.Shared\DotnetConf2018.Services.csproj" />
+    <Folder Include="Imagenes\" />
+    <Folder Include="Resultados\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Imagenes\" />
-    <Folder Include="Resultados\" />
+    <ProjectReference Include="..\DotnetConf2018.Shared\DotnetConf2018.Services.csproj" />
   </ItemGroup>
 
 </Project>

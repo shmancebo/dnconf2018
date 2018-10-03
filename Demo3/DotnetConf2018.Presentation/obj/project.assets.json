@@ -11852,9 +11852,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Presentation\\DotnetConf2018.Presentation.csproj",
-      "projectName": "DotnetConf2018.Presentation",
-      "projectPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Presentation\\DotnetConf2018.Presentation.csproj",
+      "projectUniqueName": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Presentation\\DotnetConf2018.API.csproj",
+      "projectName": "DotnetConf2018.API",
+      "projectPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Presentation\\DotnetConf2018.API.csproj",
       "packagesPath": "C:\\Users\\shernandez\\.nuget\\packages\\",
       "outputPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018.Presentation\\obj\\",
       "projectStyle": "PackageReference",
