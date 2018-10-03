@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="dotnetconf2018portal" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\GIT\\dnconf2018\\dnconf2018\\Demo3\\DotnetConf2018\.Portal\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

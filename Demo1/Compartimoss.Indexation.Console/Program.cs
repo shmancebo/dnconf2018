@@ -11,8 +11,9 @@ namespace Compartimoss.Indexation
     {
         static void Main(string[] args)
         {
-            string searchServiceName = "";
-            string adminApiKey = "";
+
+            string searchServiceName = "dotnetconfsearch";
+            string adminApiKey = "162ED4F1F498A366C066F1A1B1430F5D";
             //Get data
             string text = System.IO.File.ReadAllText(@"../../../Data/dataOscars.json");
             List<AzureSearchModel> data = JsonConvert.DeserializeObject<List<AzureSearchModel>>(text);
@@ -20,7 +21,7 @@ namespace Compartimoss.Indexation
 
             //Create index
             var azureSearch = new AzureSearchService(searchServiceName, adminApiKey);
-            var indexCreate = azureSearch.CreateIndexAsync<AzureSearchModel>("compartimossearch", false, null).Result;
+            var indexCreate = azureSearch.CreateIndexAsync<AzureSearchModel>("oscars", false, null).Result;
 
             // Group by year - One document by year
 
@@ -29,7 +30,7 @@ namespace Compartimoss.Indexation
             foreach(var element in groupByYear)
             {
                 var currentData = element.ToList<AzureSearchModel>();
-                var uploadDocument = azureSearch.UploadDocuments<AzureSearchModel>("compartimossearch", currentData.ToArray()).Result;
+                var uploadDocument = azureSearch.UploadDocuments<AzureSearchModel>("oscars", currentData.ToArray()).Result;
             }
         }
     }

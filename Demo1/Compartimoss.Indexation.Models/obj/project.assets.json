@@ -4902,11 +4902,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\shernandez\\Source\\Repos\\Compartimoss.AzureSearch.Indexation\\Compartimoss.Indexation.Models\\Compartimoss.Indexation.Models.csproj",
+      "projectUniqueName": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo1\\Compartimoss.Indexation.Models\\Compartimoss.Indexation.Models.csproj",
       "projectName": "Compartimoss.Indexation.Models",
-      "projectPath": "c:\\users\\shernandez\\Source\\Repos\\Compartimoss.AzureSearch.Indexation\\Compartimoss.Indexation.Models\\Compartimoss.Indexation.Models.csproj",
+      "projectPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo1\\Compartimoss.Indexation.Models\\Compartimoss.Indexation.Models.csproj",
       "packagesPath": "C:\\Users\\shernandez\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\shernandez\\Source\\Repos\\Compartimoss.AzureSearch.Indexation\\Compartimoss.Indexation.Models\\obj\\",
+      "outputPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo1\\Compartimoss.Indexation.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

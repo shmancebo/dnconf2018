@@ -12,3 +12,17 @@ C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\obj\Debug\netco
 C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.csproj.CopyComplete
 C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.dll
 C:\Users\shernandez\Source\Repos\DotnetConf2018.Shared\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.1\TestingAI.deps.json
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.1\TestingAI.runtimeconfig.json
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.1\TestingAI.runtimeconfig.dev.json
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.1\TestingAI.dll
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.1\TestingAI.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.1\DotnetConf2018.Services.dll
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\bin\Debug\netcoreapp2.1\DotnetConf2018.Services.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.csprojAssemblyReference.cache
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.csproj.CoreCompileInputs.cache
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.AssemblyInfoInputs.cache
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.AssemblyInfo.cs
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.csproj.CopyComplete
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.dll
+C:\GIT\dnconf2018\dnconf2018\Demo3\TestingAI\obj\Debug\netcoreapp2.1\TestingAI.pdb

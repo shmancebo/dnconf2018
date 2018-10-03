@@ -10,3 +10,15 @@ c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos
 c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.csproj.CopyComplete
 c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.dll
 c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimos.Indexation.Services\bin\Debug\netcoreapp2.1\Compartimos.Indexation.Services.deps.json
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimos.Indexation.Services\bin\Debug\netcoreapp2.1\Compartimos.Indexation.Services.dll
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimos.Indexation.Services\bin\Debug\netcoreapp2.1\Compartimos.Indexation.Services.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimos.Indexation.Services\bin\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.dll
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimos.Indexation.Services\bin\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.csprojAssemblyReference.cache
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.csproj.CoreCompileInputs.cache
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.AssemblyInfoInputs.cache
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.AssemblyInfo.cs
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.csproj.CopyComplete
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.dll
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimos.Indexation.Services\obj\Debug\netcoreapp2.1\Compartimos.Indexation.Services.pdb

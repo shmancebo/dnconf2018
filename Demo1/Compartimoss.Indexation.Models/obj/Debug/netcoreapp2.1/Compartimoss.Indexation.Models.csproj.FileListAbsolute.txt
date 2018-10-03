@@ -7,3 +7,12 @@ c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimos
 c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimoss.Indexation.Models\bin\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.pdb
 c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.dll
 c:\users\shernandez\Source\Repos\Compartimoss.AzureSearch.Indexation\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimoss.Indexation.Models\bin\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.deps.json
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimoss.Indexation.Models\bin\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.dll
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimoss.Indexation.Models\bin\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.pdb
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.csprojAssemblyReference.cache
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.csproj.CoreCompileInputs.cache
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.AssemblyInfoInputs.cache
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.AssemblyInfo.cs
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.dll
+C:\GIT\dnconf2018\dnconf2018\Demo1\Compartimoss.Indexation.Models\obj\Debug\netcoreapp2.1\Compartimoss.Indexation.Models.pdb

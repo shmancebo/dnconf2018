@@ -4921,11 +4921,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shernandez\\Source\\Repos\\Compartimoss.AzureSearch.Indexation\\Compartimos.Indexation.Services\\Compartimos.Indexation.Services.csproj",
+      "projectUniqueName": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo1\\Compartimos.Indexation.Services\\Compartimos.Indexation.Services.csproj",
       "projectName": "Compartimos.Indexation.Services",
-      "projectPath": "C:\\Users\\shernandez\\Source\\Repos\\Compartimoss.AzureSearch.Indexation\\Compartimos.Indexation.Services\\Compartimos.Indexation.Services.csproj",
+      "projectPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo1\\Compartimos.Indexation.Services\\Compartimos.Indexation.Services.csproj",
       "packagesPath": "C:\\Users\\shernandez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shernandez\\Source\\Repos\\Compartimoss.AzureSearch.Indexation\\Compartimos.Indexation.Services\\obj\\",
+      "outputPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo1\\Compartimos.Indexation.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4944,8 +4944,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\shernandez\\Source\\Repos\\Compartimoss.AzureSearch.Indexation\\Compartimoss.Indexation.Models\\Compartimoss.Indexation.Models.csproj": {
-              "projectPath": "C:\\Users\\shernandez\\Source\\Repos\\Compartimoss.AzureSearch.Indexation\\Compartimoss.Indexation.Models\\Compartimoss.Indexation.Models.csproj"
+            "C:\\GIT\\dnconf2018\\dnconf2018\\Demo1\\Compartimoss.Indexation.Models\\Compartimoss.Indexation.Models.csproj": {
+              "projectPath": "C:\\GIT\\dnconf2018\\dnconf2018\\Demo1\\Compartimoss.Indexation.Models\\Compartimoss.Indexation.Models.csproj"
             }
           }
         }
